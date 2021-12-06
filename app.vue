@@ -1,11 +1,14 @@
 <template>
   <div>
-    <h1>jessecahill.com</h1>>
+    <h1>jessecahill.com</h1>
   </div>
 </template>
-<script></script>
+
 <style>
 body {
+  background-image: url('/images/jc-bg.jpg');
+  background-size: cover;
+  background-color: #222;
   display: flex;
   justify-content: center;
 }
