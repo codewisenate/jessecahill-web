@@ -6,7 +6,7 @@
 
 <style>
 body {
-  background-image: url('/images/jc-bg.jpg');
+  background-image: url('~/assets/images/jc-bg.jpg');
   background-size: cover;
   background-color: #222;
   display: flex;
