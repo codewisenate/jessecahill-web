@@ -14,7 +14,7 @@
 <script setup>
   useMeta({
       meta: [
-        { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1' }
+        { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=5' }
       ],
       bodyAttrs: {
         class: 'home'
