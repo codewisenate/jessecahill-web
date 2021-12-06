@@ -1,8 +1,26 @@
 <template>
+  <Html lang="en-CA">
+      <Head>
+        <Title>Jessa Cahill | Greasy</Title>
+        <Meta name="description" content="Greasy" />
+      </Head>
+  </Html>
+
   <section class="main">
     <h1>jessecahill.com</h1>
   </section>
 </template>
+
+<script setup>
+  useMeta({
+      meta: [
+        { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1' }
+      ],
+      bodyAttrs: {
+        class: 'home'
+      }
+  })
+</script>
 
 <style>
 body {
