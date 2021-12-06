@@ -38,6 +38,7 @@
 * {
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
 }
 body {
     background-color: #222;
@@ -75,6 +76,7 @@ h2 {
   color: #111;
   font-size: 2.5rem;
   margin: 0 auto 2rem;
+  font-weight: 400;
 }
 .form-container {
   margin: 0 auto;
