@@ -84,6 +84,7 @@ h2 {
 }
 @media (max-width: 500px) {
   .content-container {
+    margin: 2rem auto auto;
     width: 100%;
   }
   h1 {
