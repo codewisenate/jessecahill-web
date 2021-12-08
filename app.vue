@@ -59,7 +59,7 @@ section.main {
 }
 .content-container {
   background: linear-gradient(0deg, rgba(0,0,0,0.85) 0%, rgba(66,66,66,0.85) 100%);
-  border: 4px solid #fff;
+  border: 1px solid #444;
   border-radius: 2rem;
   box-shadow: 0 0 0.5rem 0.25rem rgba(0,0,0, 0.66);
   display: flex;
