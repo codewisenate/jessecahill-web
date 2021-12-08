@@ -74,13 +74,13 @@ section.main {
 h1 {
   color: #fff;
   font-size: 3rem;
-  margin: 1rem auto 0;
+    margin: 0 auto;
 }
 h2 {
   color: #fff;
   font-size: 2.5rem;
-  margin: 0 auto 1rem;
   font-weight: 400;
+  margin: 0 auto;
 }
 @media (max-width: 500px) {
   .content-container {
@@ -88,11 +88,9 @@ h2 {
   }
   h1 {
     font-size: 2rem;
-    margin: 0 auto;
   }
   h2 {
     font-size: 1.5rem;
-    margin: 0 auto;
   }
 }
 .form-container {
