@@ -58,10 +58,10 @@ section.main {
   width: 100vw;
 }
 .content-container {
-  background-color: rgba(0,0,0, 0.66);
+  background: linear-gradient(0deg, rgba(0,0,0,0.85) 0%, rgba(66,66,66,0.85) 100%);
   border: 4px solid #fff;
   border-radius: 2rem;
-  box-shadow: 0 0 0.5rem  rgba(0,0,0, 0.66);
+  box-shadow: 0 0 0.5rem 0.25rem rgba(0,0,0, 0.66);
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
@@ -72,11 +72,13 @@ section.main {
   margin: 2rem 2rem auto;
 }
 h1 {
+  text-shadow: 0 0 0.5rem  rgba(0,0,0, 0.85);
   color: #fff;
   font-size: 3rem;
     margin: 0 auto;
 }
 h2 {
+  text-shadow: 0 0 0.5rem  rgba(0,0,0, 0.85);
   color: #fff;
   font-size: 2.5rem;
   font-weight: 400;
