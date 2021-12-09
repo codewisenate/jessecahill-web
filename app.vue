@@ -9,16 +9,7 @@
   <section class="main">
     <div class="content-container">
     <h1>Jesse Cahill</h1>
-    <h2>~ Greasy ~</h2>
-    <!-- <div class="form-container">
-      <h3>Contact Jesse</h3>
-      <form name="contact" method="POST" data-netlify="true">
-        <p><label>Your Name:<br /><input label="Your Name" name="name" /></label></p>
-        <p><label>Your Email:<br /><input type="email" name="email" /></label></p>
-        <p><label>Message:<br /><textarea name="message"></textarea></label></p>
-        <p><button type="submit">Send</button></p>
-      </form>
-    </div> -->
+    <h2><a href="https://vsoschoolofmusic.ca/faculty/jesse-cahill/">[vita@vso]</a></h2>
   </div>
   </section>
 </template>
@@ -80,9 +71,12 @@ h1 {
 h2 {
   text-shadow: 0 0 0.5rem  rgba(0,0,0, 0.85);
   color: #fff;
-  font-size: 2.5rem;
+  font-size: 1.75rem;
   font-weight: 400;
   margin: 0 auto;
+}
+a {
+  color: inherit;
 }
 @media (max-width: 500px) {
   .content-container {
