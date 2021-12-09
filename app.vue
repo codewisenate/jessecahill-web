@@ -59,7 +59,7 @@ section.main {
   flex-direction: column;
   max-width: 360px;
   height: auto;
-  padding: 2rem;
+  padding: 1rem 2rem 2rem;
   margin: auto 2rem 2rem auto;
 }
 h1 {
