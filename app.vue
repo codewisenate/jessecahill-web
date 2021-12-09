@@ -80,7 +80,10 @@ a {
 }
 @media (max-width: 500px) {
   .content-container {
-    margin: 2rem auto auto;
+    border:none;
+    border-bottom: 1px solid #444;
+    border-radius: 0;
+    margin: 0 auto auto;
     width: 100%;
   }
   h1 {
