@@ -60,7 +60,7 @@ section.main {
   max-width: 360px;
   height: auto;
   padding: 2rem;
-  margin: 2rem 2rem auto;
+  margin: auto 2rem 2rem auto;
 }
 h1 {
   text-shadow: 0 0 0.5rem  rgba(0,0,0, 0.85);
